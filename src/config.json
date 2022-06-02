@@ -1,0 +1,5 @@
+{
+  "apiUrl": "http://crm.touriya.ir/api",
+  "apiUrlSock":"http://crm.touriya.ir/",
+  "tokenKey": "token"
+}

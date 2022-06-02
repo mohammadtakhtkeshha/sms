@@ -1,0 +1,39 @@
+{
+    "profile": {
+      "setting": {
+        "dialogTitle": "Eddit Number",
+        "phoneNumber": "Number",
+        "saveText": "Save",
+        "closeText": "Close",
+        "successMessage": "Chenge Number"
+      }
+    },
+    "unauthorized": {
+      "login": {
+        "email": "ایمیل",
+        "password": "پسورد",
+        "enterEmail": "ایمیل را وارد کنید",
+        "enterValidEmail": "ایمیل معتبر نیست. ",
+        "enterRequiredEmail": "enterRequiredEmail",
+        "enterPassword": "enterPassword",
+        "enterValidPassword": "پسورد باید بیشتر از 8 کاراکتر باشد. ",
+        "enterRequiredPassword": "وارد کردن پسورد الزامی می باشد..",
+        "enterRequiredPhon": "Enter Required Phon",
+        "RBP": "Snap",
+        "login": "login",
+        "descriptionLogin":"The best taxi hailing service in Iran",
+        "descriptionPanele1":" Snap ",
+        "RememberMe": "RememberMe",
+        "ForgotPassword": "ForgotPassword",
+        "DonotAccount": "DonotAccount",
+        "SendCode": "SendCode ",
+        "verificationcode": "verificationcode",
+        "verificationcodes": "verificationcode",
+        "submissionCode": "submit Code :",
+        "editNumber": " Edit Number"
+      
+      }
+    }
+   
+  }
+  
